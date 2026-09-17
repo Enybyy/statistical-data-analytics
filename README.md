@@ -5,7 +5,7 @@
   <a href="https://enybyy.github.io/statistical-data-analytics/" target="_blank">
     <img src="https://img.shields.io/badge/▶️_PROBAR_DEMO_EN_VIVO-GitHub_Pages-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Demo en Vivo" />
   </a>
-  <a href="https://www.linkedin.com/in/eliud-rm/" target="_blank">
+  <a href="https://www.linkedin.com/in/eliud-rojas-mendoza-414652212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Eliud_RM-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -72,6 +72,6 @@ Este repositorio reúne un arsenal de **técnicas estadísticas avanzadas, model
 
 Ofrezco consultoría en **Business Intelligence, análisis estadístico para toma de decisiones, experimentación / A/B Testing y detección de anomalías en datos de negocio**.
 
-- **LinkedIn**: [Eliud RM](https://www.linkedin.com/in/eliud-rm/)
+- **LinkedIn**: [Eliud RM](https://www.linkedin.com/in/eliud-rojas-mendoza-414652212/)
 - **GitHub**: [@Enybyy](https://github.com/Enybyy)
 - *Conversemos sobre cómo respaldar la estrategia de tu negocio con datos y rigor analítico.*
