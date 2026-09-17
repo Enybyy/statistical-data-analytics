@@ -116,7 +116,6 @@ Este repositorio reúne un arsenal de **técnicas estadísticas avanzadas, model
 Ofrezco servicios profesionales de **consultoría en Business Intelligence, análisis estadístico para toma de decisiones, experimentación / A/B Testing y detección de anomalías en datos de negocio**.
 
 - **GitHub**: [@Enybyy](https://github.com/Enybyy)
-- **LinkedIn**: [@Eliud RM](linkedin.com/in/eliud-rojas-mendoza-414652212)
 - **Perfil Profesional**: Eliud RM — Data Science & Software Solutions
 - *Conversemos sobre cómo respaldar la estrategia de tu negocio con datos y rigor analítico.* 
 
