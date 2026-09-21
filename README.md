@@ -1,3 +1,22 @@
+## 🇬🇧 English Summary
+
+**Rigorous statistical analysis, A/B testing and fraud detection with Python and SQL.**
+
+A portfolio of applied statistics work aimed at business decision-making rather than academic exercises:
+
+- **Hypothesis testing / A-B testing** — experiment design, significance testing and readable conclusions for non-technical stakeholders
+- **Fraud detection** — anomaly identification over transactional data
+- **Business intelligence** — descriptive and inferential analysis turned into decisions
+
+**Stack:** Python · Pandas · NumPy · SciPy · Matplotlib/Seaborn · SQL · Jupyter
+
+🔗 **[Live demo](https://enybyy.github.io/statistical-data-analytics/)**
+
+---
+
+<details>
+<summary>📖 <b>Documentación completa en español</b> (click para expandir)</summary>
+
 # 📊 Statistical Data Analytics — Inferencia Estadística, BI y Detección de Anomalías
 > **Análisis estadístico riguroso, pruebas de hipótesis (A/B Testing), detección de anomalías/fraude y consultas avanzadas SQL en bases de datos empresariales.**
 
@@ -75,3 +94,6 @@ Ofrezco consultoría en **Business Intelligence, análisis estadístico para tom
 - **LinkedIn**: [Eliud RM](https://www.linkedin.com/in/eliud-rojas-mendoza-414652212/)
 - **GitHub**: [@Enybyy](https://github.com/Enybyy)
 - *Conversemos sobre cómo respaldar la estrategia de tu negocio con datos y rigor analítico.*
+
+
+</details>
